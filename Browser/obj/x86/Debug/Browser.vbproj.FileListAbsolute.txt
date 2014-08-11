@@ -1,0 +1,23 @@
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\bin\Debug\Browser.exe
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\bin\Debug\Browser.pdb
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\bin\Debug\Browser.xml
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\obj\x86\Debug\Browser.Form1.resources
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\obj\x86\Debug\Browser.Resources.resources
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\obj\x86\Debug\Browser.exe
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\obj\x86\Debug\Browser.xml
+C:\Documents and Settings\hollandv\Local Settings\Application Data\Temporary Projects\Browser\obj\x86\Debug\Browser.pdb
+C:\Vicky\Visual Studio\Browser\Browser\obj\x86\Debug\Browser.exe
+C:\Vicky\Visual Studio\Browser\Browser\obj\x86\Debug\Browser.xml
+C:\Vicky\Visual Studio\Browser\Browser\obj\x86\Debug\Browser.pdb
+C:\Vicky\Visual Studio\Browser\Browser\bin\Debug\Browser.exe
+C:\Vicky\Visual Studio\Browser\Browser\bin\Debug\Browser.pdb
+C:\Vicky\Visual Studio\Browser\Browser\bin\Debug\Browser.xml
+C:\Vicky\Visual Studio\Browser\Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Vicky\Visual Studio\Browser\Browser\obj\x86\Debug\Browser.Form1.resources
+C:\Vicky\Visual Studio\Browser\Browser\obj\x86\Debug\Browser.Resources.resources
+C:\Vicky\Visual Studio\Browser\Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Vicky\Visual Studio\Browser\Browser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Vicky\Visual Studio\Browser\Browser\obj\x86\Debug\Browser.frmAbout.resources
